@@ -7,7 +7,7 @@ This project unifies advertising performance data from **Facebook Ads**, **Googl
 ## Live Dashboard
 - Looker Studio: https://lookerstudio.google.com/reporting/341564c1-87b8-4181-b2ab-f11942e4f856
 
-## Data Source (Assignment)
+## Data Source 
 CSV files provided by the assignment:
 - `01_facebook_ads.csv`
 - `02_google_ads.csv`
@@ -40,10 +40,6 @@ Located in `/sql`:
 ### 2) Report
 Located in `/report`:
 - `report.md` (step-by-step approach + explanation + screenshot references)
-
-### 3) Screenshots
-Located in `/images` (or `/dashboard/screenshots` depending on your folder name):
-- Evidence of dataset setup, table loads, view creation, validation outputs, and final dashboard.
 
 ---
 
