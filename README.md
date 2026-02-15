@@ -4,6 +4,8 @@
 
 This project unifies advertising performance data from **Facebook Ads**, **Google Ads**, and **TikTok Ads** into a single analytics model in **BigQuery**, then visualizes the integrated dataset in a **one-page Looker Studio dashboard** for cross-channel performance analysis.
 
+**Database: Google BigQuery | Visualization: Looker Studio**
+
 ## Live Dashboard
 - Looker Studio: https://lookerstudio.google.com/reporting/341564c1-87b8-4181-b2ab-f11942e4f856
 
