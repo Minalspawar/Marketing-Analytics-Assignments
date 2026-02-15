@@ -1,5 +1,5 @@
 -- =========================================
--- Unified Ads Model (exact columns from your CSVs)
+-- Unified Ads Model 
 -- Dataset: marketing_analytics_assignment
 -- =========================================
 
